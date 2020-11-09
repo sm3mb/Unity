@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/sm3mb/Documents/Unity Projects/Prototype 1/Challenge 1- Airplane
+    Sidescroller/Assets/Challenge 1/Challenge 1.unity
+  isLoaded: 1
+  isActive: 1
